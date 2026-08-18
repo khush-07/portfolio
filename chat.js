@@ -1,5 +1,5 @@
 /* ============================================================
-   Khushboo Sharma — Portfolio chat agent
+   Khushboo Sharma - Portfolio chat agent
    Self-contained: no external APIs. Knowledge base baked in.
    Also handles: nav hamburger, active-page highlight,
    fade-in on scroll, hero tagline rotator.
@@ -15,7 +15,7 @@
     {
       id: "overview",
       keywords: ["who", "about", "overview", "summary", "profile", "introduce", "introduction", "bio", "who is she"],
-      answer: "Khushboo is a product leader with 10+ years spanning product management and product design, now focused on digital growth and AI product management in fintech. She turns complex, regulated problems into intuitive, high-converting experiences — with a track record of measurable funnel, activation, and satisfaction gains. She's currently Lead Product Manager, Acquisition & Onboarding at EQ Bank in Toronto."
+      answer: "Khushboo is a product leader with 10+ years spanning product management and product design, now focused on digital growth and AI product management in fintech. She turns complex, regulated problems into intuitive, high-converting experiences - with a track record of measurable funnel, activation, and satisfaction gains. She's currently Lead Product Manager, Acquisition & Onboarding at EQ Bank in Toronto."
     },
     {
       id: "fintech",
@@ -25,7 +25,7 @@
     {
       id: "ai",
       keywords: ["ai", "artificial intelligence", "llm", "machine learning", "ml", "ai pm", "ai product", "genai", "signalbrief", "guardrails"],
-      answer: "Khushboo holds an AI Product Management Certification from Product Faculty (Maven, 2026). Her capstone, SignalBrief, is an AI daily media brief tool for fintech comms leads — it cut a ~45-minute manual task to under 5 minutes using a Noise/Watch/Act/Crisis framework. Her AI PM approach emphasizes judgment, guardrails, and evaluation thinking, not just shipping features."
+      answer: "Khushboo holds an AI Product Management Certification from Product Faculty (Maven, 2026). Her capstone, SignalBrief, is an AI daily media brief tool for fintech comms leads - it cut a ~45-minute manual task to under 5 minutes using a Noise/Watch/Act/Crisis framework. Her AI PM approach emphasizes judgment, guardrails, and evaluation thinking, not just shipping features."
     },
     {
       id: "wins",
@@ -35,7 +35,7 @@
     {
       id: "zero-to-one",
       keywords: ["0 to 1", "zero to one", "0→1", "launch", "launches", "new product", "from scratch", "greenfield", "first"],
-      answer: "Khushboo led the 0→1 launch of PC Financial's first fee-based credit card digital journey — from UX strategy through launch and optimization. She owned end-to-end discovery: user research, journey mapping, prototyping, testing, and stakeholder alignment across Marketing, Product, and Engineering."
+      answer: "Khushboo led the 0→1 launch of PC Financial's first fee-based credit card digital journey - from UX strategy through launch and optimization. She owned end-to-end discovery: user research, journey mapping, prototyping, testing, and stakeholder alignment across Marketing, Product, and Engineering."
     },
     {
       id: "design",
@@ -55,7 +55,7 @@
     {
       id: "certifications",
       keywords: ["certification", "certified", "certificate", "award", "awards", "honors", "honours", "recognition", "td auto"],
-      answer: "Khushboo holds an AI Product Management Certification from Product Faculty (Maven, 2026), among 7 total certifications. Her honors include the Annual Summit Winner 2022 at TD Auto Finance (a national win) and the Composite Award Q4 2022 — ranked 1st nationally in Canada for customer service."
+      answer: "Khushboo holds an AI Product Management Certification from Product Faculty (Maven, 2026), among 7 total certifications. Her honors include the Annual Summit Winner 2022 at TD Auto Finance (a national win) and the Composite Award Q4 2022 - ranked 1st nationally in Canada for customer service."
     },
     {
       id: "skills",
@@ -80,7 +80,7 @@
   ];
 
   var FALLBACK = "I can tell you about Khushboo's fintech and AI product experience, her biggest wins, her design background, education, or how to reach her. What would you like to know?";
-  var GREETING = "Hi! I'm Khushboo's portfolio assistant. Ask me anything about her experience, wins, or background — or try one of these:";
+  var GREETING = "Hi! I'm Khushboo's portfolio assistant. Ask me anything about her experience, wins, or background - or try one of these:";
   var CHIPS = [
     "What's her fintech experience?",
     "Tell me about her AI PM background",
@@ -122,7 +122,7 @@
   function buildWidget() {
     var fab = document.createElement("button");
     fab.className = "chat-fab";
-    fab.setAttribute("aria-label", "Open chat — ask about Khushboo");
+    fab.setAttribute("aria-label", "Open chat - ask about Khushboo");
     fab.setAttribute("aria-expanded", "false");
     fab.innerHTML =
       '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3C6.5 3 2 6.9 2 11.7c0 2.2 1 4.2 2.6 5.7-.2 1.2-.8 2.4-1.6 3.3-.2.2 0 .6.3.6 1.9-.1 3.6-.8 4.9-1.7 1.2.4 2.5.6 3.8.6 5.5 0 10-3.9 10-8.7S17.5 3 12 3z"/></svg>';

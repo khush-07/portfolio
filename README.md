@@ -1,23 +1,23 @@
-# Khushboo Sharma — Portfolio
+# Khushboo Sharma - Portfolio
 
 Personal portfolio of **Khushboo Sharma**, Growth Product Manager in Toronto.
 
-**Live site:** https://khush-07.github.io/portfolio/ <!-- update after enabling GitHub Pages -->
+**Live site:** https://khush-07.github.io/portfolio/
 
 ## About
 
-10+ years across engineering, design, and product — from front-end developer to
+10+ years across engineering, design, and product - from front-end developer to
 product designer to product management. Data-first approach to acquisition,
 activation, and funnel growth in regulated fintech. Currently Lead Product
 Manager, Acquisition & Onboarding at EQ Bank.
 
 ## Site
 
-A hand-built static site — no frameworks, no build step, fast by design.
+A hand-built static site - no frameworks, no build step, fast by design.
 
 | File | Purpose |
 |---|---|
-| `index.html` | Homepage — thesis + evidence ledger of selected outcomes |
+| `index.html` | Homepage - thesis + evidence ledger of selected outcomes |
 | `about.html` | My journey: developer → designer → PM |
 | `experience.html` | Full work history with impact metrics |
 | `skills.html` | Skills by category |
@@ -33,11 +33,13 @@ A hand-built static site — no frameworks, no build step, fast by design.
 - **4,000+** upgrades in two days from a 0→1 fee-based credit card launch
 
 ## Contact
+
+- Email: skhushboo71@gmail.com
 - LinkedIn: [khushboo-sharma27](https://www.linkedin.com/in/khushboo-sharma27)
 
 ## Running locally
 
-No tooling needed — open `index.html` in a browser, or serve the folder:
+No tooling needed - open `index.html` in a browser, or serve the folder:
 
 ```bash
 python3 -m http.server
