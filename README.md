@@ -2,7 +2,7 @@
 
 Personal portfolio of **Khushboo Sharma**, Growth Product Manager in Toronto.
 
-**Live site:** https://YOUR-USERNAME.github.io <!-- update after enabling GitHub Pages -->
+**Live site:** https://khush-07.github.io/portfolio/ <!-- update after enabling GitHub Pages -->
 
 ## About
 
