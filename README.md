@@ -33,8 +33,6 @@ A hand-built static site — no frameworks, no build step, fast by design.
 - **4,000+** upgrades in two days from a 0→1 fee-based credit card launch
 
 ## Contact
-
-- Email: skhushboo71@gmail.com
 - LinkedIn: [khushboo-sharma27](https://www.linkedin.com/in/khushboo-sharma27)
 
 ## Running locally
